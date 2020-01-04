@@ -124,9 +124,6 @@
     "README.md",
     "requirements.txt"
   ],
-  "bin": {
-    "facenet-manager": "dist/bin/facenet-manager.js"
-  },
   "facenet": {
     "env": {
       "PYTHON_FACENET_MODEL_PATH": "models/",
